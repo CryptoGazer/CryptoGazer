@@ -8,9 +8,10 @@
 ## My Stack
 
 - Python:
+  - FastAPI
+  - Aiogram
   - Flask
   - Flet
-  - FastAPI
   - TensorFlow
 - Java:
   - Spring
@@ -20,7 +21,7 @@
 - HTML, CSS
 - n8n API, OpenAI API
 - AWS, Docker
-- Postgres, MySQL, SQLite
+- Postgres, MySQL, SQLite (+ SQLAlchemy)
 - Redis
 - Supabase
 - MongoDB
