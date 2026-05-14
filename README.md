@@ -17,6 +17,7 @@
   - Spring
 - C#:
   - Unity
+- Kotlin
 - JavaScript
 - HTML, CSS
 - n8n API, OpenAI API
